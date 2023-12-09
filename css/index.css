@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "AlimamaDongFangDaKai";
+    src: url("AlimamaDongFangDaKai-Regular.ttf");
+}  
+body {
+    background-image: url("../image/StockSnap_U94B4HVBAO.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+    font-family: "AlimamaDongFangDaKai";
+}
+h1 {
+    color: orangered;
+}
+h2 {
+    color: darkorange;
+}
+h3 {
+    color: goldenrod;
+}
+a {
+    color: darkgreen;
+}
+.button {
+    color:rgba(255, 0, 0, 0.7);
+}
