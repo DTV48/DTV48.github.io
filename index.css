@@ -1,0 +1,16 @@
+body {
+    background-image: url("image/StockSnap_U94B4HVBAO.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+}
+h1 {
+    color: orangered;
+}
+h2 {
+    color: darkorange;
+}
+a{
+    color: darkgreen;
+}
